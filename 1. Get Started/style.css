@@ -1,0 +1,13 @@
+.container {
+    background-color: #a723dc; 
+    color: #fff; 
+    margin-top: 10px; 
+    margin-bottom: 10px; 
+    height: 25vh;
+}
+
+.container-fluid {
+    background-color: #233cdc; 
+    color: #fff; 
+    height: 25vh;
+}
